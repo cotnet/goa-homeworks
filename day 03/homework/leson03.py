@@ -1,4 +1,4 @@
-1
+# 1
 # +
 print(136193+3771273)
 print(2681266379+44841848)
@@ -32,7 +32,7 @@ print(814/21)
 
 
 
-2
+# 2
 age=14
 age1=19
 print(age1)
@@ -40,7 +40,7 @@ print(age1)
 
 
 
-3
+# 3
 mother=44
 father=50
 sister=17
@@ -54,9 +54,7 @@ print(mother+father+sister+brother+sister1)
 
 
 
-4
+# 4
 name="cotne"
 name="nodo"
 print (name)
-
-
