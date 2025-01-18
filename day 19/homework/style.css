@@ -1,0 +1,37 @@
+#pizza{
+    color: rgb(146, 35, 35);
+    text-align: center;
+}
+body {
+    background-color: red
+}
+#pizza1{
+    color: chartreuse;
+}
+#xawapuri{
+    color: chartreuse;
+    text-align: center;
+}
+#xawapuri1{
+    color: rgb(43, 255, 0);
+}
+#xinkali{
+    color: rgb(0, 199, 199);
+    text-align: center;
+}
+#xinkali1{
+    color: rgb(68, 0, 255);
+}
+#cake{
+    color: rgb(251, 175, 83);
+    text-align: center;
+}
+#cake1{
+    color: yellowgreen;
+}
+#mwvadi{
+    color: rgb(0, 255, 255);
+}
+#mwvadi1{
+    color: rgb(0, 93, 215);
+}
