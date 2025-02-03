@@ -1,0 +1,57 @@
+#Hallo{
+    color: brown;
+}
+#hallo{
+    color: blue;
+}
+#hAllo{
+    color: navy;
+}
+#haLlo{
+    color: blueviolet;
+}
+#hallO{
+    color: aqua;
+}
+
+.hallo{
+    color: green;
+}
+
+#a{
+    color: blueviolet;
+    text-align: center;
+}
+#c{
+    background-color: blue;
+}
+.click{
+    color: blue;
+    background-color: blueviolet;
+    border-radius:5px;
+    border-style:ridge;
+}
+.clic{
+    color: rgb(255, 0, 0);
+    background-color: rgba(211, 0, 0, 0.436);
+    border-radius:20px;
+    border-style:ridge;
+}
+.cli{
+    color: rgb(72, 255, 0);
+    background-color: rgba(0, 255, 89, 0.279);
+    border: radius 4px;;
+    border-style:outset;
+}
+.cl{
+    color: rgb(255, 0, 191);
+    background-color: rgba(67, 43, 226, 0.288);
+    border-radius:5px;
+    border-style:ridge;
+}
+.cl1{
+    color: rgb(0, 170, 255);
+    background-color: rgb(0, 60, 255);
+    border-radius:5px;
+    border-style:ridge;
+}
