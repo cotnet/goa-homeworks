@@ -1,0 +1,21 @@
+ /* 1 */
+/*  1500px*0.25=375  */
+ /* 375*0.3=112.5 */
+ /* 2 */
+ p {
+    color: #ffffff;
+}
+/* 3 */
+h1 {
+    font-family: 'Roboto';
+    font-weight: 700; 
+    color: red;
+
+}
+a {
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+#h1 {
+    color: rgb(221, 0, 255);
+}
